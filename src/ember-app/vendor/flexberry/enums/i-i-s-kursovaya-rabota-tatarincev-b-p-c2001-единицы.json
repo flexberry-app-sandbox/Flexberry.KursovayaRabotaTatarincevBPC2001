@@ -1,0 +1,10 @@
+﻿{
+  "nameSpace": "IIS.Kursovaya_rabota_Tatarincev_BPC2001",
+  "className": "Единицы",
+  "enumObjects": {
+    "1": "Гр",
+    "2": "Л",
+    "3": "Шт",
+    "4": "Мл"
+  }
+}

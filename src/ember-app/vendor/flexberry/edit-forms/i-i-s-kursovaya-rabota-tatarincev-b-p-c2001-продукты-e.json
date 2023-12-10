@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Продукты",
+  "name": "IISKursovaya_rabota_Tatarincev_BPC2001ПродуктыE",
+  "className": "ПродуктыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-продукты",
+      "modelProjection": "ПродуктыE"
+    }
+  ]
+}

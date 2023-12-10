@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-клиенты-e",
+  "editForm": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-клиенты-e",
+  "external": false,
+  "caption": "Клиенты",
+  "name": "IISKursovaya_rabota_Tatarincev_BPC2001КлиентыL",
+  "className": "КлиентыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-клиенты",
+      "modelProjection": "КлиентыL"
+    }
+  ]
+}

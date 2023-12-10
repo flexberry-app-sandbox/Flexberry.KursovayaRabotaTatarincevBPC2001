@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": "продукты",
+      "displayAttributeName": "наименование",
+      "required": true,
+      "relationName": "СоставБлюда.Продукты",
+      "projection": "ПродуктыL",
+      "detailModelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-состав-блюда"
+    }
+  ],
+  "external": false,
+  "caption": "Блюда",
+  "name": "IISKursovaya_rabota_Tatarincev_BPC2001БлюдаE",
+  "className": "БлюдаE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-блюда",
+      "modelProjection": "БлюдаE"
+    }
+  ]
+}

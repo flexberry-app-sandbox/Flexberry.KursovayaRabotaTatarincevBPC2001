@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-заказы-e",
+  "editForm": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-заказы-e",
+  "external": false,
+  "caption": "Заказы",
+  "name": "IISKursovaya_rabota_Tatarincev_BPC2001ЗаказыL",
+  "className": "ЗаказыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-заказы",
+      "modelProjection": "ЗаказыL"
+    }
+  ]
+}

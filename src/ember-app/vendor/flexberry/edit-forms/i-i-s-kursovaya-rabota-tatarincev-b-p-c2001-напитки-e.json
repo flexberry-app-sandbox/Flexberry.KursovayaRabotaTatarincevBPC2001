@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": "продукты",
+      "displayAttributeName": "наименование",
+      "required": true,
+      "relationName": "СоставНапитков.Продукты",
+      "projection": "ПродуктыL",
+      "detailModelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-состав-напитков"
+    }
+  ],
+  "external": false,
+  "caption": "Напитки",
+  "name": "IISKursovaya_rabota_Tatarincev_BPC2001НапиткиE",
+  "className": "НапиткиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-напитки",
+      "modelProjection": "НапиткиE"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "name": "IISKursovaya_rabota_Tatarincev_BPC2001NewClass3",
+  "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-new-class3",
+  "className": "NewClass3",
+  "nameSpace": "IIS.Kursovaya_rabota_Tatarincev_BPC2001",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "NewClass3E",
+      "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-new-class3",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "NewClass3L",
+      "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-new-class3",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

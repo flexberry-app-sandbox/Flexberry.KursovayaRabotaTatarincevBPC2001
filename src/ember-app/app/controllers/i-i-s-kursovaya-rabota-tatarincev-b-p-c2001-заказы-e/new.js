@@ -1,0 +1,4 @@
+import IISKursovaya_rabota_Tatarincev_BPC2001ЗаказыEController from '../i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-заказы-e';
+
+var IISKursovaya_rabota_Tatarincev_BPC2001ЗаказыENewController = IISKursovaya_rabota_Tatarincev_BPC2001ЗаказыEController;
+export default IISKursovaya_rabota_Tatarincev_BPC2001ЗаказыENewController;

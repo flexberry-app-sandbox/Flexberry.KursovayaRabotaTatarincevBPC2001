@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "New class3",
+  "name": "IISKursovaya_rabota_Tatarincev_BPC2001NewClass3E",
+  "className": "NewClass3E",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-new-class3",
+      "modelProjection": "NewClass3E"
+    }
+  ]
+}

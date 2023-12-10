@@ -1,0 +1,4 @@
+import IISKursovaya_rabota_Tatarincev_BPC2001БлюдаEController from '../i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-блюда-e';
+
+var IISKursovaya_rabota_Tatarincev_BPC2001БлюдаENewController = IISKursovaya_rabota_Tatarincev_BPC2001БлюдаEController;
+export default IISKursovaya_rabota_Tatarincev_BPC2001БлюдаENewController;

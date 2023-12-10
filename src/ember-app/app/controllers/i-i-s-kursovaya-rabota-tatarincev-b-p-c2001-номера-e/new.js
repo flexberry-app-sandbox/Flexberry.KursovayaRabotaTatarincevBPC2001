@@ -1,0 +1,4 @@
+import IISKursovaya_rabota_Tatarincev_BPC2001НомераEController from '../i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-номера-e';
+
+var IISKursovaya_rabota_Tatarincev_BPC2001НомераENewController = IISKursovaya_rabota_Tatarincev_BPC2001НомераEController;
+export default IISKursovaya_rabota_Tatarincev_BPC2001НомераENewController;

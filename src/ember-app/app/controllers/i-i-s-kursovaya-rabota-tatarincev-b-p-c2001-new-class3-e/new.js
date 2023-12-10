@@ -1,0 +1,4 @@
+import IISKursovaya_rabota_Tatarincev_BPC2001NewClass3EController from '../i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-new-class3-e';
+
+var IISKursovaya_rabota_Tatarincev_BPC2001NewClass3ENewController = IISKursovaya_rabota_Tatarincev_BPC2001NewClass3EController;
+export default IISKursovaya_rabota_Tatarincev_BPC2001NewClass3ENewController;

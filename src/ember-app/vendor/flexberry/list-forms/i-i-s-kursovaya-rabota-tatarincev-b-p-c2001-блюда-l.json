@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-блюда-e",
+  "editForm": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-блюда-e",
+  "external": false,
+  "caption": "Блюда",
+  "name": "IISKursovaya_rabota_Tatarincev_BPC2001БлюдаL",
+  "className": "БлюдаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-блюда",
+      "modelProjection": "БлюдаL"
+    }
+  ]
+}

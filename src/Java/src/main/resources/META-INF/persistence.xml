@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1"
+	xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistencehttp://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+    <persistence-unit name="Olingo4PG">
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.Napitki</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.Zakazy</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.NewClass3</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.Dolzhnosti</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.Sotrudnik</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.Blyuda</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.SostavBlyuda</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.ZakazBlyud</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.ZakazNapitkov</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.Nomera</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.Klienty</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.Produkty</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.SostavNapitkov</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.FlexberryAdvLimit</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.NewPlatformFlexberryFlexberryUserSetting</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.NewPlatformFlexberryServicesLock</class>
+        <class>Kursovaya_rabota_Tatarincev_BPC2001.model.IISCaseberryLoggingObjectsApplicationLog</class>
+
+    </persistence-unit>
+</persistence>

@@ -1,0 +1,10 @@
+﻿{
+  "nameSpace": "IIS.Kursovaya_rabota_Tatarincev_BPC2001",
+  "className": "КлассНомера",
+  "enumObjects": {
+    "1": "Эконом",
+    "2": "Комфорт",
+    "3": "Бизнес",
+    "4": "Президентский"
+  }
+}

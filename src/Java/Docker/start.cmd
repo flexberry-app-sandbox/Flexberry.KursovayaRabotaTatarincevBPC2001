@@ -1,0 +1,1 @@
+docker-compose -p kursovaya_rabota_tatarincev_bpc2001-java up -d

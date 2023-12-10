@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-напитки-e",
+  "editForm": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-напитки-e",
+  "external": false,
+  "caption": "Напитки",
+  "name": "IISKursovaya_rabota_Tatarincev_BPC2001НапиткиL",
+  "className": "НапиткиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-напитки",
+      "modelProjection": "НапиткиL"
+    }
+  ]
+}

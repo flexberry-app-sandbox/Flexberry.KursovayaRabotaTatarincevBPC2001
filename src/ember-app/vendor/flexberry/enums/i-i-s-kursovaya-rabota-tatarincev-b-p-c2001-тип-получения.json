@@ -1,0 +1,9 @@
+﻿{
+  "nameSpace": "IIS.Kursovaya_rabota_Tatarincev_BPC2001",
+  "className": "ТипПолучения",
+  "enumObjects": {
+    "1": "Доставка в номер",
+    "2": "Навынос",
+    "3": "В ресторан"
+  }
+}

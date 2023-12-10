@@ -1,0 +1,111 @@
+﻿{
+  "applicationCaption": "Kursovaya_rabota_ tatarincev_ b p c2001",
+  "applicationTitle": "Kursovaya_rabota_ tatarincev_ b p c2001",
+  "items": [
+    {
+      "link": null,
+      "menuName": "сотрудники",
+      "caption": "Сотрудники",
+      "title": "Сотрудники",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-сотрудник-l",
+          "menuName": null,
+          "caption": "Сотрудник",
+          "title": "Сотрудник",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "Должности",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "наши-клиенты",
+      "caption": "Наши клиенты",
+      "title": "Наши клиенты",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-клиенты-l",
+          "menuName": null,
+          "caption": "Клиенты",
+          "title": "Клиенты",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "меню-ресторана",
+      "caption": "Меню ресторана",
+      "title": "Меню ресторана",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-блюда-l",
+          "menuName": null,
+          "caption": "Блюда",
+          "title": "Блюда",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-напитки-l",
+          "menuName": null,
+          "caption": "Напитки",
+          "title": "Напитки",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "заказы",
+      "caption": "Заказы",
+      "title": "Заказы",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-заказы-l",
+          "menuName": null,
+          "caption": "Заказы",
+          "title": "Заказы",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "номера",
+      "caption": "Номера",
+      "title": "Номера",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-номера-l",
+          "menuName": null,
+          "caption": "Номера",
+          "title": "Номера",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "справочник-продукты",
+      "caption": "Справочник продукты",
+      "title": "Справочник продукты",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-продукты-l",
+          "menuName": null,
+          "caption": "Продукты",
+          "title": "Продукты",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

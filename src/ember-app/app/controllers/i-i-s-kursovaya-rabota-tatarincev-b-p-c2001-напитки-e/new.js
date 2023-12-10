@@ -1,0 +1,4 @@
+import IISKursovaya_rabota_Tatarincev_BPC2001НапиткиEController from '../i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-напитки-e';
+
+var IISKursovaya_rabota_Tatarincev_BPC2001НапиткиENewController = IISKursovaya_rabota_Tatarincev_BPC2001НапиткиEController;
+export default IISKursovaya_rabota_Tatarincev_BPC2001НапиткиENewController;

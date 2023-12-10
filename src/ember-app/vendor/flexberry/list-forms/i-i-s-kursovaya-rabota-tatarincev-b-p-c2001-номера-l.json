@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-номера-e",
+  "editForm": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-номера-e",
+  "external": false,
+  "caption": "Номера",
+  "name": "IISKursovaya_rabota_Tatarincev_BPC2001НомераL",
+  "className": "НомераL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-номера",
+      "modelProjection": "НомераL"
+    }
+  ]
+}

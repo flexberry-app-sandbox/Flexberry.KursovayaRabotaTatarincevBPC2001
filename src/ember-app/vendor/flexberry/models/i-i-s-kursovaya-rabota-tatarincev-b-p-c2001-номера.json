@@ -1,0 +1,75 @@
+﻿{
+  "name": "IISKursovaya_rabota_Tatarincev_BPC2001Номера",
+  "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-номера",
+  "className": "Номера",
+  "nameSpace": "IIS.Kursovaya_rabota_Tatarincev_BPC2001",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "номерКомнаты",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "типНомера",
+      "type": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-класс-номера",
+      "flexberryType": "КлассНомера",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "НомераE",
+      "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-номера",
+      "attrs": [
+        {
+          "name": "номерКомнаты",
+          "caption": "Номер комнаты",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "типНомера",
+          "caption": "Тип номера",
+          "hidden": false,
+          "index": 1
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "НомераL",
+      "modelName": "i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-номера",
+      "attrs": [
+        {
+          "name": "номерКомнаты",
+          "caption": "Номер комнаты",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "типНомера",
+          "caption": "Тип номера",
+          "hidden": false,
+          "index": 1
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

@@ -1,0 +1,4 @@
+import IISKursovaya_rabota_Tatarincev_BPC2001ДолжностиEController from '../i-i-s-kursovaya-rabota-tatarincev-b-p-c2001-должности-e';
+
+var IISKursovaya_rabota_Tatarincev_BPC2001ДолжностиENewController = IISKursovaya_rabota_Tatarincev_BPC2001ДолжностиEController;
+export default IISKursovaya_rabota_Tatarincev_BPC2001ДолжностиENewController;
